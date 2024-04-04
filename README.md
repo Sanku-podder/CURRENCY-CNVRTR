@@ -1,1 +1,1 @@
-This is my currency converter app
+ Currency converter app using Java-script
